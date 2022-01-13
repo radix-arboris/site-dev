@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://dev00ps.com"
+baseURL = "https://dev.dev00ps.com"
 title = "The Dev00ps Team"
 theme = "meghna-hugo"
 # post pagination
