@@ -43,36 +43,34 @@ link = "plugins/google-map/map.js"
 
 ################### English Navigation ########################
 [[Languages.en.menu.main]]
+name = "Blog"
+url = "#blog"
+weight = 1
+
+[[Languages.en.menu.main]]
 name = "About"
 url = "#about"
-weight = 1
+weight = 2
 
 [[Languages.en.menu.main]]
 name = "Services"
 url = "#services"
-weight = 2
-
-[[Languages.en.menu.main]]
-name = "Portfolio"
-url = "#portfolio"
 weight = 3
+
+#[[Languages.en.menu.main]]
+#name = "Portfolio"
+#url = "#portfolio"
+#weight = 4
 
 [[Languages.en.menu.main]]
 name = "Team"
 url = "#team"
-weight = 4
+weight = 5
 
 [[Languages.en.menu.main]]
 name = "Contact"
 url = "#contact"
-weight = 7
-
-# future use
-#[[Languages.en.menu.main]]
-#name = "Blog"
-#url = "#blog"
-#weight = 6
-#weight = 8
+weight = 6
 
 
 ############################# Default Parameters ##########################
